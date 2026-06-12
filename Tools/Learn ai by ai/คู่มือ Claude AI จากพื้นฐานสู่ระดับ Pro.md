@@ -20,6 +20,7 @@
 
 ### Part 2 — รู้ไว้ใช้ได้ดีขึ้น
 **ระดับ 1: เข้าใจ Claude ลึกขึ้น**
+
 12. Token & Context Window
 13. Hallucination และวิธีรับมือ
 14. Privacy & Security
