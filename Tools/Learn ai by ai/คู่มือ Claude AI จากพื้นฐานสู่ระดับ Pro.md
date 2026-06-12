@@ -20,18 +20,21 @@
 
 ### Part 2 — รู้ไว้ใช้ได้ดีขึ้น
 **ระดับ 1: เข้าใจ Claude ลึกขึ้น**
+
 12. Token & Context Window
 13. Hallucination และวิธีรับมือ
 14. Privacy & Security
 15. ไฟล์คำสั่งเบื้องหลัง (CLAUDE.md, System Prompt)
 
 **ระดับ 2: ใช้งานได้หลากหลายขึ้น**
+
 16. Prompt Engineering เชิงลึก
 17. Project ใน Claude.ai
 18. Claude Desktop + MCP
 19. RAG คืออะไรและใช้งานจริง
 
 **ระดับ 3: สร้างระบบได้จริง**
+
 20. Terminal เบื้องต้น
 21. Function Calling ใน API
 22. Agentic Loop
