@@ -141,7 +141,7 @@ Claude = พนักงานอัจฉริยะที่รู้ทุ�
 **XML Template (Copy to use)**
 ```xml
 <role>
-คุณคือ
+คุณคือผู้เชี่ยวชาญด้าน
 </role>
 
 <context>
