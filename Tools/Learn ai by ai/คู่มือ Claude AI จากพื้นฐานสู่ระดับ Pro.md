@@ -138,6 +138,25 @@ Claude = พนักงานอัจฉริยะที่รู้ทุ�
 "ใช้ภาษาทางการ ไม่ใช้ภาษาพูด"
 ```
 
+**XML Template (Copy to use)**
+```xml
+<role>
+คุณคือ
+</role>
+
+<context>
+[ข้อมูลหรือเอกสารที่ต้องการให้ Claude อ่าน]
+</context>
+
+<instruction>
+[คำสั่งที่ต้องการ]
+</instruction>
+
+<format>
+ภาษาไทย กระชับ อ่านเข้าใจง่าย
+</format>
+```
+
 ### System Prompt vs User Prompt
 
 ```
