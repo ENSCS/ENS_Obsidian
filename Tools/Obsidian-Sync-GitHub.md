@@ -30,3 +30,21 @@ git push origin main
 | อัปเดตทั่วไป      | `git commit -m "update notes"`        |
 | เพิ่ม oppday ใหม่ | `git commit -m "add PTTEP Q2 oppday"` |
 | แก้ไขไฟล์เฉพาะ    | `git commit -m "edit MEGA watchlist"` |
+
+### Squash Commits - รวม Commit ทั้งหมเป้นอันเดียว
+
+```bash
+# รวมทุก commit เป็นอันเดียว
+git checkout --orphan new-branch
+git add .
+git commit -m "initial"
+
+# แทนที่ main
+git branch -D main
+git branch -m main
+
+# force push
+git push origin main --force
+```
+
+
