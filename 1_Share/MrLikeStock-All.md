@@ -1,7 +1,7 @@
 # รวมไฟล์แจกฟรี อ่านงบ - Mr.LikeStock
 
 ---
-## อ่านงบการเงิน
+## ดูงบการเงิน
 
 ### เว็บสำหรับดูกำไร และ กราฟ PE Band
 https://www.mrstock.me/np
@@ -20,7 +20,7 @@ https://www.facebook.com/mr.likestock
 https://www.mrstock.me/EarningCall-Sub
 
 ---
-## อ่านงบการเงิน เรียนฟรี
+## เรียนอ่านงบการเงิน ฟรี 100%
 
 ### 🔰 อ่านงบการเงิน ตั้งแต่ มือใหม่ จนถึง ตัวอย่างอ่านงบ
 https://www.mrstock.me/ytReadFs
@@ -34,6 +34,9 @@ https://www.mrstock.online/startfree
 
 ### e-Book ปูพื้นฐานอ่านงบการเงิน
 https://mrstock.me/mini-fs/ebook/
+
+### วิธีการอ่านงบการ (สำหรับให้ ai นำไปใช้)
+https://www.mrstock.me/readfsai
 
 ---
 ## สนใจเรียน อ่านงบการเงิน หุ้น การลงทุน
