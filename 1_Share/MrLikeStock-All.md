@@ -29,7 +29,7 @@ https://www.mrstock.me/ytReadFs
 ปูพื้นฐาน อ่านงบการเงิน [เรียนฟรี 100%] มี E-Book ให้  
 https://www.mrstock.online/courses/17
 
-### วิธีสมัคร id และการเข้าเรียนฟรี
+### วิธีการสมัครสามาชิก และเข้าเรียนคอร์สฟรี
 https://www.mrstock.online/startfree
 
 ### e-Book ปูพื้นฐานอ่านงบการเงิน
@@ -41,7 +41,7 @@ https://mrstock.me/mini-fs/ebook/
 ### รายละเอียดคอร์ส
 https://www.mrlikestock.com
 
-### ตัวอย่างให้ทดลองรับชม
+### ตัวอย่างคอร์ส (ทดลองรับชม ฟรี)
 https://www.youtube.com/watch?v=jvfyv8EZCUg
 
 ### ติดต่อทางไลน์ @MrStock
