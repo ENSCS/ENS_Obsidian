@@ -8,7 +8,9 @@
 https://www.mrstock.me/aiclaude
 
 ### แบบ Md File ครบถ้วน (ให้ ai ใช้ต่อได้)
-https://github.com/ENSCS/ENS_Obsidian/blob/main/ai/Learn%20ai%20by%20ai/คู่มือ%20Claude%20AI%20จากพื้นฐานสู่ระดับ%20Pro.md
+https://github.com/ENSCS/ENS_Obsidian/blob/main/AI/Learn-ai/claude-ai-basic-to-pro.md
+
+
 
 
 
