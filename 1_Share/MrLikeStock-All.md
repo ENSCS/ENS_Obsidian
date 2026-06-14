@@ -25,7 +25,7 @@ https://www.mrstock.me/EarningCall-Sub
 https://www.mrstock.me/ytReadFs
 
 ### [ฟรี] เรียนอ่านงบ (รวมกว่า 20 ชั่วโมง++)
-ปูพื้นฐาน อ่านงบการเงิน [เรียนฟรี 100%] มี E-Book ให้
+ปูพื้นฐาน อ่านงบการเงิน [เรียนฟรี 100%] มี E-Book ให้  
 https://www.mrstock.online/courses/17
 
 ### วิธีสมัคร id และการเข้าเรียนฟรี
@@ -44,7 +44,7 @@ https://www.mrlikestock.com
 https://www.youtube.com/watch?v=jvfyv8EZCUg
 
 ### ติดต่อทางไลน์ @MrStock
-[https://MrStock.me/line](https://mrstock.me/line)
+[https://MrStock.me/line](https://mrstock.me/line)  
 ( คลิก ที่ลิงก์เพื่อแอดเพื่อนได้เลย )
 
 แอดไลน์ มีของแจกฟรี มาเป็นเพื่อนกันครับ
