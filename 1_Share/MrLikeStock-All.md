@@ -19,7 +19,35 @@ https://www.mrstock.me/npsheet
 https://www.mrstock.me/EarningCall-Sub
 
 ---
+## อ่านงบการเงิน เรียนฟรี
 
-## คลิปอ่านงบการเงิน เรียนฟรี
+### 🔰 อ่านงบการเงิน ตั้งแต่ มือใหม่ จนถึง ตัวอย่างอ่านงบ
+https://www.mrstock.me/ytReadFs
 
-### อ่านงบการเงินเเบื้องต้น (เป็นใน 3 ชั่วโมง)
+### [ฟรี] เรียนอ่านงบ (รวมกว่า 20 ชั่วโมง++)
+ปูพื้นฐาน อ่านงบการเงิน [เรียนฟรี 100%] มี E-Book ให้
+https://www.mrstock.online/courses/17
+
+### วิธีสมัคร id และการเข้าเรียนฟรี
+https://www.mrstock.online/startfree
+
+### e-Book ปูพื้นฐานอ่านงบการเงิน
+https://mrstock.me/mini-fs/ebook/
+
+---
+## สนใจเรียน อ่านงบการเงิน หุ้น การลงทุน
+
+### รายละเอียดคอร์ส
+https://www.mrlikestock.com
+
+### ตัวอย่างให้ทดลองรับชม
+https://www.youtube.com/watch?v=jvfyv8EZCUg
+
+### ติดต่อทางไลน์ @MrStock
+[https://MrStock.me/line](https://mrstock.me/line)
+( คลิก ที่ลิงก์เพื่อแอดเพื่อนได้เลย )
+
+แอดไลน์ มีของแจกฟรี มาเป็นเพื่อนกันครับ
+
+---
+(End.)
