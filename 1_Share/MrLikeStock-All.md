@@ -16,6 +16,12 @@ https://www.mrstock.me/npcap
 ### ประกาศงบล่าสุด ดูทั้งหมดได้ที่หน้าเพจ
 https://www.facebook.com/mr.likestock
 
+---
+## Earnings Call (OppDay)
+
+### สรุป Earnings Call 2026q1
+https://www.mrstock.me/sec26q1
+
 ### รวม Earning Call (Oppday) Subtitle จาก Youtube
 https://www.mrstock.me/EarningCall-Sub
 
